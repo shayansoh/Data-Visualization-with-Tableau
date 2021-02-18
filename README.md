@@ -22,8 +22,8 @@ The data used in this project involves citi bikes, a shared micromobility servic
 Below is what the final dashboard looks like. The tableau code can be imported to your personal computer to explore the interactive features. This dashboard allows end-user to quickly glance at the popular stations, popular usage time of the bikes, duration of trips etc.
 
 These information can help citi bike into exploring options for adding new stations, scheduling maintenance time for the bike etc.
-![](citibikes-visualization.pdf)
+![](citibikes-visualization.PNG)
 
 ## Featured File
-* [Main Tableau File](citibikes-visualization.ipynb)
+* [Main Tableau File](citibikes-visualization.twb)
 
